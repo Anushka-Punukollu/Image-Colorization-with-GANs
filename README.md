@@ -10,6 +10,5 @@ By leveraging the power of GANs, it is now possible to create stunning, true-to-
 **Video:** https://www.youtube.com/watch?v=N7cXn-xBmhY
 
 
-## References 📓: 
----------
+### References 📓: 
 * https://towardsdatascience.com/colorizing-black-white-images-with-u-net-and-conditional-gan-a-tutorial-81b2df111cd8
