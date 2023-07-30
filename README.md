@@ -9,6 +9,7 @@ References:
 ---------
 
 ### To Learn More 💡
+---------
 
 **Article:** https://medium.com/@AnushkaPunukollu/generative-genius-unleashing-the-creative-power-of-gans-b84568e35bf8                         
 
